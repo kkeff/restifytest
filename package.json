@@ -1,0 +1,20 @@
+{
+  "name": "restifytest",
+  "version": "0.0.1",
+  "description": "Test of restify",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kkeff/restifytest.git"
+  },
+  "author": "Kasper Gustavii",
+  "license": "Me",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mongodb": "2.2.28"
+  },
+  "devDependencies": {
+    "eslint": "^3.9.1"
+  }
+}
